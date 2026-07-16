@@ -4,7 +4,7 @@
 
 In this order, run ONLY THESE scripts: 01a, 02c, 03, 07c, 08a. 
 
-Only run these scripts if you WANT to:
+Only run the scripts below if you WANT to:
 
 * Redo perspective and scaling parameters calculation: 02a, 02b, 02d, 02e.
 
